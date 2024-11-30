@@ -1,0 +1,6 @@
+bb = int(input())
+mb = int(input())
+sb = int(input())
+c = int(input())
+s = int(input())
+print(min(bb,mb,sb)+min(s,c)-50)

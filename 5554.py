@@ -1,0 +1,6 @@
+s=int(input())
+p=int(input())
+a=int(input())
+h=int(input())
+print((s+p+a+h)//60)
+print((s+p+a+h)%60)
